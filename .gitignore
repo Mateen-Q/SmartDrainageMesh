@@ -1,0 +1,12 @@
+# Contiki-NG Build Artifacts
+*.o
+*.obj
+*.exe
+*.cooja
+*.native
+symbols.c
+symbols.h
+obj_*
+# OS files
+.DS_Store
+Thumbs.db
